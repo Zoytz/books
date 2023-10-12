@@ -1,4 +1,4 @@
-import { ChangeEvent, FC, FormEvent, KeyboardEventHandler, SyntheticEvent } from 'react';
+import { ChangeEvent, FC, FormEvent } from 'react';
 
 type PropsType = {
   name: string

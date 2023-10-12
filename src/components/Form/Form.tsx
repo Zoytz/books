@@ -1,7 +1,7 @@
 import Input from '../Input/Input';
 import Selects from '../Selects/Selects';
 import Select from '../Select/Select';
-import { ChangeEvent, FC, FormEvent, useState } from 'react';
+import { ChangeEvent, FC, FormEvent } from 'react';
 import SubmitButton from '../SubmitButton/SubmitButton';
 import { categorySelectOptions, sortingSelectOptions } from '../../constants/constants';
 

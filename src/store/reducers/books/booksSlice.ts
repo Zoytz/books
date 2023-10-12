@@ -1,6 +1,6 @@
 import { createSlice } from '@reduxjs/toolkit';
 import type { PayloadAction } from '@reduxjs/toolkit';
-import { BookType, BooksResponseType } from '../../../types/types';
+import { BookType } from '../../../types/types';
 
 type InitialStateType = {
   booksCount: number
