@@ -1,0 +1,26 @@
+.header {
+  color: #fff;
+  background-color: #000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 30px;
+}
+
+.header__link {
+  text-decoration: none;
+  font-size: 40px;
+  margin: 0;
+  color: #fff;
+  font-weight: bold;
+}
+
+@media screen and (max-width: 800px) {
+  .header {
+    padding: 20px;
+  }
+
+  .header__link {
+    text-align: center;
+  }
+}

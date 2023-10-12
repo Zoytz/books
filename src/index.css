@@ -1,1 +1,40 @@
 @import '../src/vendor/normalize.css';
+
+/* Header */
+@import url(../src/components/Header/Header.css);
+
+/* Form */
+@import url(../src/components/Form/Form.css);
+
+/* Input */
+@import url(../src/components/Input/Input.css);
+
+/* Layout */
+@import url(../src/components/Layout/Layout.css);
+
+/* Main */
+@import url(../src/components/Main/Main.css);
+
+/* Selects */
+@import url(../src/components/Selects/Selects.css);
+
+/* Select */
+@import url(../src/components/Select/Select.css);
+
+/* SubmitButton */
+@import url(../src/components/SubmitButton/SubmitButton.css);
+
+/* Books */
+@import url(../src/components/Books/Books.css);
+
+/* Book */
+@import url(../src/components/Book/Book.css);
+
+/* PaginationButton */
+@import url(../src/components/PaginationButton/PaginationButton.css);
+
+/* BookPage */
+@import url(../src/components/BookPage/BookPage.css);
+
+/* 404 */
+@import url(../src/components/Page404/Page404.css);

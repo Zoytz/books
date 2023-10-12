@@ -1,0 +1,11 @@
+.button {
+  padding: 0;
+  border: none;
+  width: 30px;
+  height: 30px;
+  background-image: url(../../images/search.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #fff;
+  cursor: pointer;
+}

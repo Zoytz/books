@@ -1,0 +1,8 @@
+.input {
+  height: 30px;
+  align-self: center;
+  padding: 5px;
+  width: 80%;
+  border: none;
+  box-sizing: border-box;
+}
